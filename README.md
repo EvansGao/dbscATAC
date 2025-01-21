@@ -1,4 +1,4 @@
-# EAGLE: an algorithm that utilizes small number of genomic features to predict tissue/cell type specific enhancer-gene interactions
+# dbscATAC: a resource of super-enhancer and gene marker annotations for single-cell chromatin accessibility
 EAGLE used all six features only derived from the enhancers and gene expression datasets, without providing more information like histone modification, methylation or other enhancer-gene (EG) detection datasets. With a high accuracy thirteen times larger than employing the closest genes, EAGLE was applied to identify 7,680,203 and 7,437,255 EG interactions involving 31,375 and 43,724 genes, 138,547 and 177,062 enhancers across 89 and 110 tissue/cell types in mouse and human, respectively. The predicted datasets are available in an interactive website http://www.enhanceratlas.org.
 
 # Usage
