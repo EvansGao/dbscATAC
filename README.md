@@ -1,0 +1,1 @@
+dbscATAC is a specialized single-cell database annotating 213,835 super-enhancers, 347,484 marker genes, 13,470,526 enhancers, and 10,402,346 enhancer-gene interactions from 1,668,076 single cells across 1,028 tissue/cell types in 13 species. 
