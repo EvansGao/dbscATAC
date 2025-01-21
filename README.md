@@ -1,5 +1,5 @@
-# dbscATAC: a resource of super-enhancer and gene marker annotations for single-cell chromatin accessibility
-EAGLE used all six features only derived from the enhancers and gene expression datasets, without providing more information like histone modification, methylation or other enhancer-gene (EG) detection datasets. With a high accuracy thirteen times larger than employing the closest genes, EAGLE was applied to identify 7,680,203 and 7,437,255 EG interactions involving 31,375 and 43,724 genes, 138,547 and 177,062 enhancers across 89 and 110 tissue/cell types in mouse and human, respectively. The predicted datasets are available in an interactive website http://www.enhanceratlas.org.
+# dbscATAC: a resource of single-cell super-enhancers/enhancers and gene markers for scATAC-seq data
+dbscATAC is a specialized single-cell database annotating 213,835 super-enhancers, 347,484 marker genes, 13,470,526 enhancers, and 10,402,346 enhancer-gene interactions from 1,668,076 single cells across 1,028 tissue/cell types in 13 species. . The predicted datasets are available in an interactive website http://www.enhanceratlas.org.
 
 # Usage
 perl EAGLE.pl -E <Enhancer> -G <Expression> -S <Species><br />
