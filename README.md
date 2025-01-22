@@ -6,6 +6,7 @@ dbscATAC is a specialized single-cell database annotating 213,835 super-enhancer
 To conduct identification of super-enhancers, typical enhancers, and gene markers, following softwares are required:<br />
 ✯ R version > 4.2<br />
 ✯ Perl >5.16.3<br />
+✯ bedtools > 2
 ✯ deeptools > 2<br />
 
 # Usage
