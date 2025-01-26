@@ -2,6 +2,9 @@
 ![Fig1](https://github.com/user-attachments/assets/184c25ed-988c-4671-9fdc-3a6be4d8c92b)
 dbscATAC is a specialized database offering comprehensive annotations of 213,835 super-enhancers across 520 tissue/cell types from 3 species, as well as 347,484 gene markers, 13,470,526 enhancers, and 10,402,346 enhancer-gene interactions, and 43,202,785 TF binding sites derived from 1,668,076 single cells of scATAC-seq data spanning 1,028 tissue/cell types in 13 species. The predicted results are available in an interactive website http://singlecelldb.com/dbscATAC/index.php.
 
+# Overview of dbscATAC
+![Fig1](https://github.com/user-attachments/assets/184c25ed-988c-4671-9fdc-3a6be4d8c92b)<br />
+
 # Dependencies
 To conduct identification of super-enhancers, typical enhancers, and gene markers, following softwares are required:<br />
 ✯ R version > 4.2<br />
