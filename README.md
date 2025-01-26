@@ -19,7 +19,7 @@ To conduct prediction of super-enhancers, typical enhancers, and gene markers, f
 ✯ deeptools > 2<br />
 ✯ python3<br />
 
-# Usage
+# Tutorial
 perl EAGLE.pl -E <Enhancer> -G <Expression> -S <Species><br />
 Example for prediction of EG interaction: perl EAGLE.pl -E inputexample/cell_enh.bed -G inputexample/cell_gene.txt -S human<br />
 Essential Options<br />
@@ -27,7 +27,6 @@ Essential Options<br />
 -G: A tab-delineate file displayed the expression value of ensembl genes with format as "\<ensembl\>\t\<value\>"<br />
 -S: Speceis "human" or "mouse". The default is "human"<br />
   
-# Softwares
-To run EAGLE, following softwares are required:<br />
-Perl v5.16.3<br />
-Matlab R2017b<br />
+# Download of results
+All the single-cell chromatin accessibility annotation data are available at:<br />
+http://singlecelldb.com/dbscATAC/download.php
