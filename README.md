@@ -20,12 +20,8 @@ To conduct prediction of super-enhancers, typical enhancers, and gene markers, f
 ✯ python3<br />
 
 # Tutorial
-perl EAGLE.pl -E <Enhancer> -G <Expression> -S <Species><br />
-Example for prediction of EG interaction: perl EAGLE.pl -E inputexample/cell_enh.bed -G inputexample/cell_gene.txt -S human<br />
-Essential Options<br />
--E: A tab-delineate file indicate the enhancer positions and signals with format as "\<chr\>\t\<start\>\t\<end\>\t\<signal\>"<br />
--G: A tab-delineate file displayed the expression value of ensembl genes with format as "\<ensembl\>\t\<value\>"<br />
--S: Speceis "human" or "mouse". The default is "human"<br />
+**[Prediction-of-superenhancers](https://github.com/EvansGao/dbscATAC/wiki/Prediction-of-superenhancers)**   : This will use GSE for example
+
   
 # Download of results
 All the single-cell chromatin accessibility annotation data are available at:<br />
