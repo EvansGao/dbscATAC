@@ -15,6 +15,7 @@ To conduct prediction of super-enhancers, typical enhancers, and gene markers, f
 ✯ Perl >5.16.3<br />
 ✯ bedtools > 2<br />
 ✯ macs2 2.2.6<br />
+✯ sinto 0.10.1<br />
 ✯ deeptools > 2<br />
 ✯ python3<br />
 
