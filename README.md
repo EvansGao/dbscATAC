@@ -20,9 +20,9 @@ To conduct prediction of super-enhancers, typical enhancers, and gene markers, f
 ✯ python3<br />
 
 # Tutorial
-**[Prediction-of-superenhancers](https://github.com/EvansGao/dbscATAC/wiki/Prediction-of-superenhancers)**   : Predict single-cell superenhancers using the GSE111586 dataset for human
-**[Prediction-of-enhancers](https://github.com/EvansGao/dbscATAC/wiki/Prediction-of-enhancers)**   : Predict single-cell enhancers by the GSE149683 dataset for mouse
-**[Identification-of-markers](https://github.com/EvansGao/dbscATAC/wiki/Identification-of-markers)**   : Identify single-cell gene markers using the GSE163697 dataset for fly
+**[Prediction-of-superenhancers](https://github.com/EvansGao/dbscATAC/wiki/Prediction-of-superenhancers)**   : Predict single-cell superenhancers using the GSE111586 dataset for human<br />
+**[Prediction-of-enhancers](https://github.com/EvansGao/dbscATAC/wiki/Prediction-of-enhancers)**   : Predict single-cell enhancers by the GSE149683 dataset for mouse<br />
+**[Identification-of-markers](https://github.com/EvansGao/dbscATAC/wiki/Identification-of-markers)**   : Identify single-cell gene markers using the GSE163697 dataset for fly<br />
 
   
 # Download of results
