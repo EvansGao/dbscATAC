@@ -20,7 +20,7 @@ To conduct prediction of super-enhancers, typical enhancers, and gene markers, f
 ✯ python3<br />
 
 # Tutorial
-**[Prediction-of-superenhancers](https://github.com/EvansGao/dbscATAC/wiki/Prediction-of-superenhancers)**   : This will use GSE for example
+**[Prediction-of-superenhancers](https://github.com/EvansGao/dbscATAC/wiki/Prediction-of-superenhancers)**   : Predict single-cell superenhancers using the GSE111586 dataset
 
   
 # Download of results
