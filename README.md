@@ -7,10 +7,16 @@ dbscATAC is a specialized database offering comprehensive annotations of 213,835
 
 # Dependencies
 To conduct prediction of super-enhancers, typical enhancers, and gene markers, following softwares are required:<br />
+✯ ROSE<br />
 ✯ R version > 4.2<br />
+✯ Signac 1.12.0<br />
+✯ Seurat 5.1.0<br />
+✯ cicero 1.3.9<br />
 ✯ Perl >5.16.3<br />
 ✯ bedtools > 2<br />
+✯ macs2 2.2.6<br />
 ✯ deeptools > 2<br />
+✯ python3<br />
 
 # Usage
 perl EAGLE.pl -E <Enhancer> -G <Expression> -S <Species><br />
